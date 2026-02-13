@@ -1,16 +1,48 @@
-# Advanced Industrial Engineering Innovation Lab
+# 🚀 Advanced Industrial Engineering Innovation Lab
 
-The **Advanced Industrial Engineering Innovation Lab** aims to communicate knowledge about emerging technologies and provide hands-on experiences with them. These technologies are set to fundamentally transform the way we work and live.  
-
-The lab is open to students of **TH Rosenheim** as well as employees from regional companies. It also serves as a hub for research and development projects and technology transfer. Students gain practical experience during their studies, developing projects and demonstrators under the guidance of **Prof. Dr.-Ing. Andreas Straube**. This allows them to engage with cutting-edge technologies and collaborate with companies, potentially serving as a springboard for future employment opportunities.
-
-Thanks to a research project, the lab has been equipped with state-of-the-art equipment, providing opportunities to gain knowledge in areas such as **artificial intelligence, neural networks, and data acquisition in production systems**, along with hands-on access to demonstrators. In addition, the lab covers **augmented and virtual reality**, offering a wide range of devices, applications, and examples. With our collaborative robot, students and researchers can explore automation applications that enable safe and efficient human-robot collaboration.
-
-We would like to extend our special thanks to **Landkreis Traunstein**. Thanks to a generous contribution of €9,000 in Q4 2023, a new research position was established in the lab, now held by **Maria Quinteiro Perosa**.
+**Communicating knowledge. Experiencing emerging technologies. Shaping the future of work and industry.**
 
 ---
 
-## Contact
+## 🏢 About the Lab
+
+The **Advanced Industrial Engineering Innovation Lab** at **TH Rosenheim** provides students and regional companies hands-on experience with emerging technologies that are transforming the way we work and live.  
+
+- Students develop projects and demonstrators under the guidance of **Prof. Dr.-Ing. Andreas Straube**  
+- Lab supports **research, development, and technology transfer**  
+- Offers a bridge between academic studies and professional experience
+
+---
+
+## 🔬 Research Focus & Technologies
+
+- **Artificial Intelligence & Neural Networks** – Applications in production systems  
+- **Data Acquisition** – Collecting and analyzing production data  
+- **Augmented & Virtual Reality** – Hands-on experiences with devices and applications  
+- **Collaborative Robotics** – Safe and efficient human-robot interaction  
+- **Humanoid Robot** – Exploring human-robot collaboration, mobility, and advanced automation scenarios
+
+---
+
+## 🎯 Current Projects
+
+- Hands-on demonstrators for AI in production  
+- VR/AR applications for industrial training  
+- Automation tasks using collaborative and humanoid robots  
+
+---
+
+## 🙏 Acknowledgements
+
+Special thanks to **Landkreis Traunstein** for a generous contribution of **€9,000 (Q4 2023)**, which enabled a new research position now held by **Maria Quinteiro Perosa**.
+
+---
+
+## 📬 Contact
 
 - Email: [lab-email@th-rosenheim.de](mailto:lab-email@th-rosenheim.de)  
-- Website: [https://www.th-rosenheim.de](https://www.th-rosenheim.de)
+- Website: [https://www.th-rosenheim.de](https://www.th-rosenheim.de)  
+
+---
+
+*Made with ❤️ for students, researchers, and industry partners*
