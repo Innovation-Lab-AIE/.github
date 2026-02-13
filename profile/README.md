@@ -1,10 +1,10 @@
-# 🚀 Advanced Industrial Engineering Innovation Lab
+# Advanced Industrial Engineering Innovation Lab
 
 **Communicating knowledge. Experiencing emerging technologies. Shaping the future of work and industry.**
 
 ---
 
-## 🏢 About the Lab
+## About the Lab
 
 The **Advanced Industrial Engineering Innovation Lab** at **TH Rosenheim** provides students and regional companies hands-on experience with emerging technologies that are transforming the way we work and live.  
 
@@ -14,7 +14,7 @@ The **Advanced Industrial Engineering Innovation Lab** at **TH Rosenheim** provi
 
 ---
 
-## 🔬 Research Focus & Technologies
+## Research Focus & Technologies
 
 - **Artificial Intelligence & Neural Networks** – Applications in production systems  
 - **Data Acquisition** – Collecting and analyzing production data  
@@ -24,7 +24,7 @@ The **Advanced Industrial Engineering Innovation Lab** at **TH Rosenheim** provi
 
 ---
 
-## 🎯 Current Projects
+## Current Projects
 
 - Hands-on demonstrators for AI in production  
 - VR/AR applications for industrial training  
@@ -32,17 +32,11 @@ The **Advanced Industrial Engineering Innovation Lab** at **TH Rosenheim** provi
 
 ---
 
-## 🙏 Acknowledgements
+## Contact
 
-Special thanks to **Landkreis Traunstein** for a generous contribution of **€9,000 (Q4 2023)**, which enabled a new research position now held by **Maria Quinteiro Perosa**.
-
----
-
-## 📬 Contact
-
-- Email: [lab-email@th-rosenheim.de](mailto:lab-email@th-rosenheim.de)  
-- Website: [https://www.th-rosenheim.de](https://www.th-rosenheim.de)  
+- Youtube Channel: https://www.youtube.com/@THRoInnovationLabAIE 
+- Website: https://www.th-rosenheim.de/die-hochschule/labore/innovationslabor-advanced-industrial-engineering
 
 ---
 
-*Made with ❤️ for students, researchers, and industry partners*
+
